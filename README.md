@@ -32,4 +32,4 @@ Seguem os prompts utilizados
 
 - ## 📚 Materiais
 - ebook 
-                                                                                                                                                                                                                                                       
+<a href="https://github.com/Cintyamgs/Criando-ebook-com-IA/blob/main/EBOOK%20Como%20Investir%20no%20Tesouro%20Direto.pdf" title="View PDF now"> 📕Clique aqui para ler</a>                                                                                                                                                                                                                                                     
